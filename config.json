@@ -1,0 +1,13 @@
+{
+  "name": "serverLocal",
+  "listen": {
+    "ip": "127.0.80.1",
+    "port": 8080,
+    "dir": "./www/",
+    "autoComplet": ["index.html"]
+  },
+  "log": {
+    "error": "./logs/error.log",
+    "info": "./logs/info.log"
+  }
+}
